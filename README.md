@@ -1,0 +1,3 @@
+## After downloading
+### `npm install`
+
